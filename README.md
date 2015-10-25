@@ -11,6 +11,14 @@ Things you may want to cover:
 
 * Configuration
 
+#Ruby on Rails Tutorial: sample application
+
+this is the sample application for the 
+[*Ruby on Rails Tutorial: 
+Learn Web Development with Rails*](http://www.railstutorials.org/)
+this was done following [Michael Hartl] tutorial
+thanks Michael for the great tutorial!
+
 * Database creation
 
 * Database initialization
