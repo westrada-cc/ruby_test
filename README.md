@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 == README
 
 This README would normally document whatever steps are necessary to get the
@@ -34,3 +35,6 @@ thanks Michael for the great tutorial!
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+=======
+# nad-sample-app
+>>>>>>> d7ce857b26e3276402b10bb6069a62d15153e094
